@@ -86,7 +86,7 @@ PM_START_TEXT = """
 
 ✯ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ
 ✯ ᴘʟᴀʏ ᴍᴜsɪᴄ
-
+☠ 𝗢𝗪𝗡𝗘𝗥 @EAGLE_BACK
 ᴡɪᴛʜ ᴍᴀɴʏ ᴍᴏʀᴇ ᴀᴡᴇsᴏᴍᴇ ᴀɴᴅ ᴜsᴇғᴜʟ ғᴇᴀᴛᴜʀᴇs ғᴏʀ ʏᴏᴜʀ ɢʀᴏᴜᴘ...♡
 
 ──────────────────   ㅤ   ㅤ
@@ -405,7 +405,7 @@ def Star_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="🎄𝐑𝐄𝐏𝐎🎄", 
-                            url="https://github.com/itz-star-boi/StarXRobot",
+                            url="https://t.me/sourcecodeofyour",
                         ),
                     ],
                     [
