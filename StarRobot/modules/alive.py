@@ -19,7 +19,7 @@ PHOTO = [
 
 Star = [
     [
-        InlineKeyboardButton(text="📍𝐎𝐰𝐧𝐞𝐫📍", url=f"https://t.me/Its_star_boi"),
+        InlineKeyboardButton(text="📍𝐎𝐰𝐧𝐞𝐫📍", url=f"https://t.me/EAGLE_BACK"),
         InlineKeyboardButton(text="🍒𝐆𝐫𝐨𝐮𝐩🍒", url=f"https://t.me/{SUPPORT_CHAT}"),
     ],
     [
