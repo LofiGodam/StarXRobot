@@ -20,7 +20,7 @@ async def repo(client, message):
 
 ╔═════ஜ۩۞۩ஜ════╗
 
- 🌹️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐏𝐈𝐑𝐎](tg://user?id={OWNER_ID})🌹
+ 🌹️𝗠𝗔𝗗𝗘 𝗕𝗬 [𝐄𝐀𝐆𝐋𝐄](tg://user?id={OWNER_ID})🌹
   
 ╚═════ஜ۩۞۩ஜ════╝
 
@@ -34,7 +34,7 @@ async def repo(client, message):
                     ),
                     InlineKeyboardButton(
                         "✨ʀᴇᴘᴏ✨",
-                        url="https://github.com/itz-star-boi/StarXRobot",
+                        url="https://t.me/sourcecodeofyour",
                     ),
                 ]
             ]
